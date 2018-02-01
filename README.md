@@ -48,3 +48,7 @@ other electronic sensors.
  We can control the electronic appliances flexibly through any device capable of internet connectivity.
 # •	Extensible platform for future enhancement
 The web application is highly extensible, with possibility of adding features in the future as needed.
+
+# Project purpose
+The proposed system is designed to monitor elders who live alone and want to live independently.
+Ambient assisted living (AAL) encompasses technical systems to support elderly people and people with special needs in their daily routine. The main goal of AAL is to maintain and foster the autonomy of those people and, thus, to increase safety in their lifestyle and in their home environment.
