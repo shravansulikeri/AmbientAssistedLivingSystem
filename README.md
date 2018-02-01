@@ -66,4 +66,25 @@ sitting in remote place.
 # •	The system can be used in offices.
   It is used in the offices to automatically turn on the fan when the room temperature is high. Turn off the light by sitting in remote place.
 # •	The system can be used in schools and colleges.
-  It is used in the schools and colleges to automatically turn on the fan when the room temperature is high. Turn off  the light by sitting in remote place.
+  It is used in the schools and colleges to automatically turn on the fan when the room temperature is high. Turn off  the light by
+sitting in remote place.
+
+  There are some important factors in the AAL system, including control strategies and personal preference. These factors will be
+different in each home environment. Thus, we have to find a solution so that we can adjust these factors easily. In order to solve this
+problem, we proposed integrated home control architecture to allow the AAL system to be easily re-configured according to various
+special requirements. We also construct a tight relation between the AAL system and the Internet. In the future, the AAL system will
+become smarter because of the ability of collecting information from the Internet.
+
+  In our experiment, all the components in our architecture are implemented. We also created a virtual one to be controlled by our AAL
+system. The process of developing a powerful AAL system will encounter a lot of problems. In this project, we considered the possible
+problems and tried to find an efficient way to resolve these problems in the software level. 
+
+  These kinds of AAL systems are required because human can make mistakes and forgot to switch off the appliances when there is no use
+and in this case, they are useful in order to utilize the power effectively and also in a secured manner.
+
+  The prime objective of our project was to use the Smartphone to control the home appliances effectively through the web page. This
+project is based on the Arduino Ethernet, GSM module, Arduino platform and xampp server. These platforms are Free Open Source Software.
+So the overall implementation cost is low and can be easily configured.
+
+  User can easily interact with the android phone/tablet. The user can send commands via the buttons. The data are being analyzed by the
+application and are sent over a network. The xampp acts as a server, analyses the data and activates the webpage.
