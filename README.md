@@ -88,3 +88,18 @@ So the overall implementation cost is low and can be easily configured.
 
   User can easily interact with the android phone/tablet. The user can send commands via the buttons. The data are being analyzed by the
 application and are sent over a network. The xampp acts as a server, analyses the data and activates the webpage.
+
+# FUTURE SCOPE AND ENHANCEMENTS OF THE PROJECTS
+  Looking at the current situation we have built our project using local area network, even we can build it globally. Limitation to
+control several devices can be extended by controlling over all other electrical devices and appliances. Network can be connected to
+internet and Security cameras can be controlled from other places, allowing the user to observe activity around a house or business.
+Security systems can include motion sensors that will detect any kind of unauthorized movement and notify the user. Scope of this
+project can be expanded to many areas by not restricting to only home.
+  
+  In this highly developing era, where directly or indirectly, everything is dependent on computation and information technology,Arduino
+Ethernet proves to be a smart, economic and efficient platform for implementing the Ambient Assisted Living System. The code provided is
+generic and flexible in a user friendly manner and can be extended for any future applications like power control, surveillance, etc,
+easily. 
+
+  In the large hospitals one cannot have attention towards the individual person so we can implement detection of bedwetting in such
+hospitals to detect bedwetting.
