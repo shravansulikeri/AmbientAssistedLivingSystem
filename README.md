@@ -52,3 +52,18 @@ The web application is highly extensible, with possibility of adding features in
 # Project purpose
 The proposed system is designed to monitor elders who live alone and want to live independently.
 Ambient assisted living (AAL) encompasses technical systems to support elderly people and people with special needs in their daily routine. The main goal of AAL is to maintain and foster the autonomy of those people and, thus, to increase safety in their lifestyle and in their home environment.
+
+# Project applicability
+The project aims at designing a prototype for controlling and monitoring the electronic sensors and appliances that can be controlled
+wirelessly via web pages.
+The system integrated with different features can be applied in the following fields.
+# •	The system can be used in home and old age home.
+  It is used in the home or the old aged home to provide safety to the person like detecting gas leakage in the home, fall of person
+from the bed, and it checks the bed wetting.  Automatically turn on the fan when the room temperature is high. turn off the light by
+sitting in remote place.
+# •	The system can be used in hospitals.
+  It is used in the hospitals to detect the bedwetting (enuresis), fall of person from the bed. Automatically turn on the fan when the room temperature is high. Turn off the light by sitting in remote place.
+# •	The system can be used in offices.
+  It is used in the offices to automatically turn on the fan when the room temperature is high. Turn off the light by sitting in remote place.
+# •	The system can be used in schools and colleges.
+  It is used in the schools and colleges to automatically turn on the fan when the room temperature is high. Turn off  the light by sitting in remote place.
